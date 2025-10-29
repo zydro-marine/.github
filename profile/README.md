@@ -1,5 +1,5 @@
 ## Zydro Marine Technologies
 
-_Powering the Unmanned Surface Vessel Revolution_
+_Building Blocks for Unmanned Surface Vessels_
 
-We build enabling technology for autonomous boats & ships to explore & defend the oceans for America's interests.
+We build an hardware & software component ecosystem for USVs - "pickaxes and shovels" that help marine autonomy companies build & scale their USV fleet cheaper & faster.
