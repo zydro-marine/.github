@@ -1,3 +1,3 @@
 ## Zydro Marine Technologies
 
-_Building Blocks for Unmanned Surface Vessels_
+_Building Blocks for Trusted Autonomy at Sea_
