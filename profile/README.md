@@ -1,3 +1,3 @@
 ## Zydro Marine Technologies
 
-_Building Blocks for Trusted Autonomy at Sea_
+_The Toolkit for Trusted Autonomy at Sea_
