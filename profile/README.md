@@ -1,3 +1,3 @@
 ## Zydro Marine Technologies
 
-_The Toolkit for Trusted Autonomy at Sea_
+_The Geospatial Toolkit for Marine Robotics_
