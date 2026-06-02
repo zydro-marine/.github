@@ -1,3 +1,5 @@
 ## Zydro Marine Technologies
 
-_The Geospatial Toolkit for Marine Robotics_
+_The Toolkit for Maritime Spatial Intelligence_
+
+We build tools to autonomously produce, analyze & distribute bathymetry and other ocean geospatial data.
